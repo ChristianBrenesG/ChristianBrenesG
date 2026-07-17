@@ -8,7 +8,7 @@ En 2019 cursé un Técnico de Analisis de Datos en el TEC Costa Rica, donde me h
 
 🌱 Espero aprender mucho más y sacar mucho provecho a todo lo que se puede hacer con Desarrollo potenciado con IA.
 
-<img width="43" height="43" alt="image" src="https://github.com/user-attachments/assets/1aef8982-869c-45a6-bc4a-5793671b03b2" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1aef8982-869c-45a6-bc4a-5793671b03b2" />
 https://www.linkedin.com/in/christian-brenes-garro-99161518b/
 <!--
 **ChristianBrenesG/ChristianBrenesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
