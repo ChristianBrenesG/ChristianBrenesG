@@ -7,6 +7,9 @@ Desde 2014 laboro para una empresa en la cual empecé el departamento de TI, en 
 En 2019 cursé un Técnico de Analisis de Datos en el TEC Costa Rica, donde me he iniciado en el mundo de la programación con Java y Python y ahora estoy más involucrado porque estoy llevando el Master de Desarrollo con IA de Big School y reforzando mis conocimientos en desarrollo de la mano de Mouredev Pro.
 
 🌱 Espero aprender mucho más y sacar mucho provecho a todo lo que se puede hacer con Desarrollo potenciado con IA.
+
+<img width="43" height="43" alt="image" src="https://github.com/user-attachments/assets/1aef8982-869c-45a6-bc4a-5793671b03b2" />
+https://www.linkedin.com/in/christian-brenes-garro-99161518b/
 <!--
 **ChristianBrenesG/ChristianBrenesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
