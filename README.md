@@ -1,5 +1,12 @@
-### Hola a todos, soy Christian 👋
+### Hola a todos, soy Christian Brenes👋
 
+Soy técnico en informática desde 2010, en donde empezé a dar mis primeros pasos ensamblando y reparando equipos desktop, posteriormente pase a dar soporte outsourcing a empresas, también me dedico a la reparación de laptops y móviles.
+
+Desde 2014 laboro para una empresa en la cual empecé el departamento de TI, en esta llevé una capacitación del ERP SAP Business One en donde me metí fuertemente en el uso de SQL server y un poco más tarde tuve la necesidad de aprender de Power BI para mejorar la reportería de la empresa.
+
+En 2019 cursé un Técnico de Analisis de Datos en el TEC Costa Rica, donde me he iniciado en el mundo de la programación con Java y Python y ahora estoy más involucrado porque estoy llevando el Master de Desarrollo con IA de Big School y reforzando mis conocimientos en desarrollo de la mano de Mouredev Pro.
+
+🌱 Espero aprender mucho más y sacar mucho provecho a todo lo que se puede hacer con Desarrollo potenciado con IA.
 <!--
 **ChristianBrenesG/ChristianBrenesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
