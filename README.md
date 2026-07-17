@@ -10,6 +10,10 @@ En 2019 cursé un Técnico de Analisis de Datos en el TEC Costa Rica, donde me h
 
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1aef8982-869c-45a6-bc4a-5793671b03b2" />
 https://www.linkedin.com/in/christian-brenes-garro-99161518b/
+
+<img width="31" height="29" alt="image" src="https://github.com/user-attachments/assets/59b7f3cc-aead-406b-996c-0ea72aea7e9e" /> chrisbrenes14@gmail.com
+
+
 <!--
 **ChristianBrenesG/ChristianBrenesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
